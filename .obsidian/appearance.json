@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "nativeMenus": true,
+  "translucency": false,
+  "monospaceFontFamily": "JetBrains Mono"
 }
