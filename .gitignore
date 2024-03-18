@@ -1,2 +1,2 @@
-workspace/*
-graph/*
+/workspace.json
+/graph.json
