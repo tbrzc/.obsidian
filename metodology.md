@@ -1,0 +1,24 @@
+# Metodologia de aprendizaje de un nuevo lenguaje
+
+- comentarios
+- instrucciones
+  - asignacion
+  - lectura,escritura(entrada y salida) de datos
+- tipos de datos primitivos
+- constantes y variables
+- expresiones y operadores
+  - expresiones aritmeticas
+  - expresiones logicas
+  - reglas de prioridad
+  - reglas generales de prioridad y asociatividad
+- funciones internas del lenguaje
+- asignaciones aritmeticas, logicas, de caracteres, multiple
+- conversion de tipo
+- operador terniario, if-elif-else, switch
+- while, do-while, for
+- break, continue (salidas internas en los bucles)
+- subprogramas
+  - return, argumentos y parametros
+  - declaracion y llamada, ambito global y local
+  - paso de parametros por valor, referencia
+  - recursividad
