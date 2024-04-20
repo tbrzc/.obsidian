@@ -1,7 +1,10 @@
 # Metodologia de aprendizaje de un nuevo lenguaje
 
 - comentarios
+- palabras reservadas
+- importar codigo
 - instrucciones
+- caracteristacas del lenguaje 
   - asignacion
   - lectura,escritura(entrada y salida) de datos
 - tipos de datos primitivos
@@ -22,3 +25,4 @@
   - declaracion y llamada, ambito global y local
   - paso de parametros por valor, referencia
   - recursividad
+- gestor de dependencias
