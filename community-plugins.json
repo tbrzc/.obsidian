@@ -1,6 +1,7 @@
 [
   "obsidian-linter",
-  "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "highlightr-plugin",
+  "image-converter"
 ]
