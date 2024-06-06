@@ -3,5 +3,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-discordrpc",
   "highlightr-plugin",
-  "image-converter"
+  "image-converter",
+  "obsidian-git"
 ]

@@ -3,5 +3,6 @@
   "showLineNumber": false,
   "strictLineBreaks": false,
   "readableLineLength": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 2
 }
