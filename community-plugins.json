@@ -1,7 +1,23 @@
 [
-  "obsidian-linter",
   "obsidian-excalidraw-plugin",
-  "highlightr-plugin",
   "image-converter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-zotero-desktop-connector",
+  "colored-text",
+  "obsidian-icon-folder",
+  "make-md",
+  "obsidian-minimal-settings",
+  "periodic-notes",
+  "keyword-highlighter",
+  "note-refactor-obsidian",
+  "obsidian-hover-editor",
+  "callout-manager",
+  "obsidian-text-format",
+  "url-into-selection",
+  "workspaces-plus",
+  "pane-relief",
+  "obsidian-link-embed",
+  "dataview",
+  "obsidian-linter",
+  "tag-wrangler"
 ]
