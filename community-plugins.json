@@ -19,5 +19,6 @@
   "obsidian-link-embed",
   "dataview",
   "obsidian-linter",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-discordrpc"
 ]
